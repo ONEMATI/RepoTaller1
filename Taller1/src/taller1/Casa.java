@@ -29,7 +29,7 @@ Metodos de la Clase Casa -get-and-set-
 
     @Override
     public String toString() {
-        return "Casa{" + "typeOfHouse=" + typeOfHouse + ", squareMeter=" + squareMeter + ", roms=" + roms + ", location=" + location + ", garden=" + garden + ", typeOfSecurity=" + typeOfSecurity + ", bathroom=" + bathroom + '}';
+        return "Casa{" + "typeOfHouse=" + typeOfHouse + ", squareMeter=" + squareMeter + ", roms=" + roms + ", address=" + address + ", garden=" + garden + ", typeOfSecurity=" + typeOfSecurity + ", bathroom=" + bathroom + '}';
     }
     
 }
