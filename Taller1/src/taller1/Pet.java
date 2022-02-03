@@ -7,13 +7,13 @@ package taller1;
  *
  * @author MatiasVeraLima
  */
-public class Mascota {
+public class Pet {
     public String animal;
     public String name;
     private String sound;
     protected String breed;
 /*
-Metodos de la Clase Mascota -get-and-set-
+Metodos de la Clase Pet -get-and-set-
 */
     public String getName() {
         return name;

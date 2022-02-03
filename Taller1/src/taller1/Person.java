@@ -1,5 +1,5 @@
 /*
-Clase Persona con Atributos y Metodos
+Clase Person con Atributos y Metodos
  */
 package taller1;
 /*
@@ -12,9 +12,9 @@ import java.util.Date;
  * @author MatiasVeraLima
  */
 /*
-Atributos de Clase Persona 
+Atributos de Clase Person 
 */
-public class Persona {
+public class Person {
     public String name;
     public String lastName1;
     public String lastName2;
@@ -23,7 +23,7 @@ public class Persona {
     public Float weight;
    
 /*
-Metodos de la Clase Persona -get-and-set-
+Metodos de la Clase Person -get-and-set-
 */
 public String getName() {
         return this.name;

@@ -1,5 +1,5 @@
 /*
-Clase Fruta 
+Clase Fruit 
 
  */
 package taller1;
@@ -11,16 +11,16 @@ import java.util.ArrayList;
  * @author MatiasVeraLima
  */
 /*
-Atributos de Clase Fruta
+Atributos de Clase Fruit
  */
-public class Fruta {
+public class Fruit {
 
     public String name;
     private Float averageWeigth;
     public ArrayList<String> colors;
 
     /*
-Metodos de la Clase Fruta -get-and-set-
+Metodos de la Clase Fruit -get-and-set-
      */
     public String getName() {
         return name;

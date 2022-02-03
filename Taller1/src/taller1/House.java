@@ -1,5 +1,5 @@
 /*
- Clase Casa con Atributos y Metodos
+ Clase House con Atributos y Metodos
 
  */
 package taller1;
@@ -8,7 +8,7 @@ package taller1;
  *
  * @author MatiasVeraLima
  */
-public class Casa {
+public class House {
     public String typeOfHouse;
     public Float squareMeter;
     private int roms;
@@ -17,7 +17,7 @@ public class Casa {
     protected Boolean typeOfSecurity;
     private int bathroom;
 /*
-Metodos de la Clase Casa -get-and-set-
+Metodos de la Clase House -get-and-set-
 */
     public String getTypeOfHouse() {
         return typeOfHouse;

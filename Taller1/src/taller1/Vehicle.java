@@ -1,5 +1,5 @@
 /*
-Clase Vehiculo con Atributos y Metodos 
+Clase Vehicle con Atributos y Metodos 
  */
 package taller1;
 
@@ -7,14 +7,14 @@ package taller1;
  *
  * @author MatiasVeraLima
  */
-public class Vehiculo {
+public class Vehicle {
     public String brand;
     public int model;
     private double litersOfGasoline;
     public int seats;
     protected Float loadCapacity;
 /*
-Metodos de la Clase Vehiculo -get-and-set-
+Metodos de la Clase Vehicle -get-and-set-
 */
     public String getBrand() {
         return brand;

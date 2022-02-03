@@ -7,7 +7,7 @@ package taller1;
  *
  * @author MatisVeraLima
  */
-public class CuentaBancaria {
+public class BankAccount {
     private int accountNumber;
    protected Boolean activated;
 /*
