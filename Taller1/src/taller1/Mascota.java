@@ -11,7 +11,7 @@ public class Mascota {
     public String animal;
     public String name;
     private String sound;
-    protected String Breed;
+    protected String breed;
 /*
 Metodos de la Clase Mascota -get-and-set-
 */
@@ -25,7 +25,7 @@ Metodos de la Clase Mascota -get-and-set-
 
     @Override
     public String toString() {
-        return "Mascota{" + "animal=" + animal + ", name=" + name + ", sound=" + sound + ", Breed=" + Breed + '}';
+        return "Mascota{" + "animal=" + animal + ", name=" + name + ", sound=" + sound + ", breed=" + breed + '}';
     }
     
     

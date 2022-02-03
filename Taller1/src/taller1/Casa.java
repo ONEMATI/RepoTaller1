@@ -12,7 +12,7 @@ public class Casa {
     public String typeOfHouse;
     public Float squareMeter;
     private int roms;
-    public String location;
+    public String address;
     public Boolean garden;
     protected Boolean typeOfSecurity;
     private int bathroom;
